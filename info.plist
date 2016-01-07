@@ -19,11 +19,11 @@
                                 <key>bundle-identifier</key>
 																<string>lbs.c6s.cn</string>
 																<key>bundle-version</key>
-																<string>1.1.2</string>
+																<string>1.1.4</string>
 																<key>kind</key>
 																<string>software</string>
 																<key>title</key>
-																<string>ChangShengGPS</string>
+																<string>畅流云定位</string>
                         </dict>
                 </dict>
         </array>
